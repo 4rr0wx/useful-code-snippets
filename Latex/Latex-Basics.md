@@ -1,6 +1,3 @@
-Absolutely! Here's the Markdown version of the LaTeX basics:
-
-
 # LaTeX Basics
 
 LaTeX is a typesetting system commonly used for academic and technical documents. It uses markup language to format documents.
