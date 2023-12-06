@@ -18,6 +18,7 @@ This is my version of the docker-compose file of `paperlessngx` that works on an
 > 	- USERMAP_GID:
 > 	(the user and group id how paperless should run)
 
+
 ```yaml
 version: "3.9"
 services:
