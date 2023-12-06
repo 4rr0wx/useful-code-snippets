@@ -2,7 +2,9 @@ This is my version of the docker-compose file of `paperlessngx` that works on an
 
 ## Docker-Compose
 
-> [!warning] Change Me!
+
+> [!warning]
+> __CHANGE ME__
 > - __Webserver__: Ports (the ports where you want paperless to be)
 > - __Volumes__: The volumes where the data is stored on your device 
 > - __Super-Admin__:
