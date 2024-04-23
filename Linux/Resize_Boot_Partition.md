@@ -20,3 +20,6 @@ df -h
 ```
 sudo lvextend -r -l +100%FREE <root logical volume name from above step>   
 ```
+
+___
+Source: [Unix Stack Exchange](https://unix.stackexchange.com/questions/138090/cant-resize-a-partition-using-resize2fs)
